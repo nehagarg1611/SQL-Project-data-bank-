@@ -53,14 +53,6 @@ This case study is all about calculating metrics, growth and helping the busines
 4. Case When Statements
 5. Entity relationship diagrams
 6. Data problem solving techniques
-7. Data Visualization with Power BI
 8. Powerpoint presentation
 
 
-# Case study Solution
-- [A. Customer Nodes Exploration](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/A.%20Customer%20Nodes%20Exploration.md)
-- [B. Customer Transactions](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/B.%20Customer%20Transactions.md)
-- [C. Data Allocation Challenge](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/C.%20Data%20Allocation%20Challenge.md)
-- [D. Extra Challenge](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/D.%20Extra%20Challenge.md)
-- [Extension Request](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/Extension%20Request.md)
-- [Insight & Recommendation](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/Insight%20%26%20Recommendation.md)
